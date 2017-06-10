@@ -1,6 +1,4 @@
-# Intro To Pi and Retropie
-Welcome to Into to Pi and Retropie
-
+# Welcome to Intro to Pi and Retropie
 Please [download](https://downloads.raspberrypi.org/raspbian_latest) and install the newest version of  rasbian jessie - 
 
 To install rasbian on the sd card please [download](https://etcher.io/), install and run etcher
@@ -21,3 +19,5 @@ After you log in run
   $ sudo reboot now
 ```
 Class will start at 10am
+
+ - Alex, Bryant and Greg
